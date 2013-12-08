@@ -6,9 +6,9 @@ See documentation [here](http://tarruda.github.com/bootstrap-datetimepicker/).
 
 ---
 
-##Bootstrap 3 Support
+##Bootstrap 3.0 Support
 
-Forked to support **Bootstrap 3**. Use like so:
+Forked to support **Bootstrap 3.0**. Use like so:
 
 ```html
 <div class="date input-group">
